@@ -15,14 +15,13 @@ Packer and Terraform workflow:
 - Run `terraform plan` to preview the changes.
 - Run `terraform apply` to deploy the EC2 instance using the AMI.
 
-Benefits of the integration:
+Benefits of the Integration:
 
 - Infrastructure as Code for consistent and reproducible deployments
 - Version control and automation of infrastructure lifecycle
 
 ???
 
-<!-- Presenter notes go here -->
-Anything under the ??? are presenter notes
+Talk about the Packer AMI Image, and how Terraform can deply the EC2 Instances with the produced AMI
 
 ---
