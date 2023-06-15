@@ -4,11 +4,12 @@ background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
 background-size: cover
 name: Packer_config
 
-##  Packer Configuration
+##  <span style="color: blue;">Packer Configuration</span>
 
 Packer JSON file to create customer machine image.
 
-<pre>
+<pre style="width: 80%; height: 450px; overflow: auto;">
+   <code class="json">
 {
   "builders": [
     {
@@ -34,6 +35,7 @@ Packer JSON file to create customer machine image.
     }
   ]
 }
+</code>
 </pre>
 
 ???

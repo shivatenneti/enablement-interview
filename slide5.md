@@ -4,9 +4,11 @@ background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
 background-size: cover
 name: terraform_apply
 
-##  Apply Terraform file
+##  <span style="color: blue;">Apply Terraform file</span>
 
-<pre>
+<pre style="width: 80%; height: 500px; overflow: auto;">
+   <code class="shell">
+   
 $ terraform init
 
 Terraform has been successfully initialized!
@@ -31,10 +33,12 @@ aws_instance.example_instance: Creation complete after 32s [id=i-01febb10d7a448c
 
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 
+</code>
 </pre>
 
 ???
 
-Explain what happens after each step.
+Explain each step while applying terraform commands
 
 ---
+

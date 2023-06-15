@@ -4,7 +4,7 @@ background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
 background-size: cover
 name: Agenda
 
-## AGENDA
+## <span style="color: blue;">AGENDA</span>
 
 1. Objective: Deploying AWS EC2 instance with a custom machine image
 2. Overview of Packer: Create custom machine image

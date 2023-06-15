@@ -4,7 +4,7 @@ background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
 background-size: cover
 name: deployment_config
 
-##  Packer and Terraform Deployment Workflow
+## <span style="color: blue;">Packer and Terraform Deployment Workflow</span>
 
 Packer and Terraform workflow:
 
